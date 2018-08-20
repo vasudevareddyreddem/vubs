@@ -18,10 +18,23 @@
       <div class="row">
         <div class="col-xs-12">
 		<div class="box">
-            <div class="box-header">
-              <h3 class="box-title">Data Table With Full Features</h3>
-            </div>
+			 <div class="box-header bg-primary">
+				<div class="col-md-6">
+				 <h2 class="box-title" style="color:#fff;line-height:35px;">Data Table With Full Features</h2>
+				</div>
+				<div class="col-md-6">
+				  <div class="pull-right">
+					<a class="btn btn-default st-btn add-student-btn" href="add-student.php"><i class="fa fa-plus"></i> Add student</a>
+				
+					
+					
+					
+				  </div>
+				</div>
+			</div>
+            
             <!-- /.box-header -->
+		
             <div class="box-body">
               <table id="example1" class="table table-bordered table-striped">
                 <thead>
